@@ -52,3 +52,5 @@ public class OddEvenGame {
 		}while(replay == 0);
 	}
 }
+
+//		if(game%2 == 0)  ....		if (game%2== 0 && input == 2)
